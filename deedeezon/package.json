@@ -1,0 +1,23 @@
+{
+  "name": "deedeezon",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront using MySQL to keep track of inventory. takes orders from customers and depletes stock from the store's inventory. ",
+  "main": "deedeezon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deedeemedina/deedeezon.git"
+  },
+  "author": "deedeemedina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deedeemedina/deedeezon/issues"
+  },
+  "homepage": "https://github.com/deedeemedina/deedeezon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
